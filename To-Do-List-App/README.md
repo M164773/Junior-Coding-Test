@@ -7,6 +7,7 @@ To-Do List App
 A simple To-Do List application (console-based), allowing the user to create, view, delete and mark as completed any task they insert.
 The program's validated to handle errors such as typing an option that doesn't exist or managing tasks when there's none added yet.
 Besides, it contains comment that document each part of the code for a better understanding of the logic behind it.
+![to-do-gif](https://github.com/user-attachments/assets/5ed0a03d-f9c4-4925-8408-1e933ee36c93)
 
 ## Getting Started
 
@@ -34,8 +35,8 @@ To check if you have Node.js installed, run "node --version" on the terminal, th
 
 ## Authors
 
-José Martínez
-https://github.com/M164773
+* José Martínez
+* https://github.com/M164773
 
 ## Version History
 
